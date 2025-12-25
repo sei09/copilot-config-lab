@@ -1,6 +1,23 @@
 # StrageFormatCLICommand
 
+This folder contains CLI-based procedures and notes for initializing storage devices (HDD, NVMe, SSD).  
+The scripts are designed for reproducible formatting and operational clarity.
+
 ストレージを安全かつ再現性のある手順で初期化するための CLI コマンド群。
+
+## Contents
+
+- `StorageFormatCLICommand.md` — Main CLI instructions
+- `ストレージ初期化_toHDD.NVME.SSD.覚書forGithub.md` — Japanese notes and rationale
+- `logs/` — Execution logs and timestamps
+
+## Scripts
+
+- `Rdrive_SampleFormat_Script.ps1` — Sample PowerShell script for formatting R drive (HDD/NVMe/SSD)
+
+## Notes
+
+This documentation was created through collaborative dialogue with Copilot, emphasizing modularity and operational beauty.
 
 ## 🎯 目的
 
