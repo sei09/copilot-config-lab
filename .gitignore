@@ -1,0 +1,5 @@
+# Ignore local editor/workspace noise
+.vscode/
+*.log
+Thumbs.db
+desktop.ini

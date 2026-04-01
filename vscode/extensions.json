@@ -1,0 +1,195 @@
+[
+  {
+    "identifier": {
+      "id": "github.copilot-chat",
+      "uuid": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f"
+    },
+    "version": "0.41.2",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/sei09/.vscode/extensions/github.copilot-chat-0.41.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-chat-0.41.2",
+    "metadata": {
+      "isApplicationScoped": true,
+      "installedTimestamp": 1774603055595,
+      "pinned": false,
+      "source": "gallery",
+      "id": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "yahooshiken.jp-theme",
+      "uuid": "79fb0bec-80c3-428c-a34b-76d09eef58b7"
+    },
+    "version": "0.0.1",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/sei09/.vscode/extensions/yahooshiken.jp-theme-0.0.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "yahooshiken.jp-theme-0.0.1",
+    "metadata": {
+      "installedTimestamp": 1774603106351,
+      "pinned": false,
+      "source": "gallery",
+      "id": "79fb0bec-80c3-428c-a34b-76d09eef58b7",
+      "publisherId": "a8855450-a084-443e-8220-d6daf82d2406",
+      "publisherDisplayName": "yahooshiken",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "oderwat.indent-rainbow",
+      "uuid": "eaa2127d-cb69-4ab9-8505-a60c9ee5f28b"
+    },
+    "version": "8.3.1",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/sei09/.vscode/extensions/oderwat.indent-rainbow-8.3.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "oderwat.indent-rainbow-8.3.1",
+    "metadata": {
+      "installedTimestamp": 1774603169935,
+      "pinned": false,
+      "source": "gallery",
+      "id": "eaa2127d-cb69-4ab9-8505-a60c9ee5f28b",
+      "publisherId": "ac064ae0-224d-4351-9aa4-45ef7bf3ed21",
+      "publisherDisplayName": "oderwat",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.powershell",
+      "uuid": "40d39ce9-c381-47a0-80c8-a6661f731eab"
+    },
+    "version": "2025.4.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/sei09/.vscode/extensions/ms-vscode.powershell-2025.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.powershell-2025.4.0",
+    "metadata": {
+      "installedTimestamp": 1774603530136,
+      "pinned": false,
+      "source": "gallery",
+      "id": "40d39ce9-c381-47a0-80c8-a6661f731eab",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mhutchie.git-graph",
+      "uuid": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7"
+    },
+    "version": "1.30.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/sei09/.vscode/extensions/mhutchie.git-graph-1.30.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "mhutchie.git-graph-1.30.0",
+    "metadata": {
+      "installedTimestamp": 1774603645458,
+      "pinned": false,
+      "source": "gallery",
+      "id": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
+      "publisherId": "996496dc-099f-469d-b89c-0d7713179365",
+      "publisherDisplayName": "mhutchie",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-ceintl.vscode-language-pack-ja",
+      "uuid": "077515fe-1509-49c0-9dcc-5511b41682fc"
+    },
+    "version": "1.110.2026033017",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/sei09/.vscode/extensions/ms-ceintl.vscode-language-pack-ja-1.110.2026033017",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-ceintl.vscode-language-pack-ja-1.110.2026033017",
+    "metadata": {
+      "isApplicationScoped": true,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1774897541525,
+      "pinned": false,
+      "source": "gallery",
+      "id": "077515fe-1509-49c0-9dcc-5511b41682fc",
+      "publisherId": "0b0882c3-aee3-4d7c-b5f9-872f9be0a115",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.live-server"
+    },
+    "version": "0.5.2026033002",
+    "location": {
+      "$mid": 1,
+      "fsPath": "c:\\Users\\sei09\\.vscode\\extensions\\ms-vscode.live-server-0.5.2026033002",
+      "_sep": 1,
+      "external": "file:///c%3A/Users/sei09/.vscode/extensions/ms-vscode.live-server-0.5.2026033002",
+      "path": "/c:/Users/sei09/.vscode/extensions/ms-vscode.live-server-0.5.2026033002",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.live-server-0.5.2026033002",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1774897542134,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4eae7368-ec63-429d-8449-57a7df5e2117",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": true,
+      "hasPreReleaseVersion": true,
+      "preRelease": true
+    }
+  }
+]

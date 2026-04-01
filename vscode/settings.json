@@ -1,0 +1,37 @@
+{
+  "window.zoomLevel": 2,
+  // VS Codeでファイルを単一クリックした際にプレビュータブを使わず、通常のエディタータブとして開く設定です（タブの使い回しを無効化）。
+  "workbench.editor.enablePreview": false,
+  "files.defaultLanguage": "ja",
+  "files.autoGuessEncoding": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', 'Cascadia Mono', 'Consolas', monospace",
+  "editor.fontLigatures": false,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "workbench.startupEditor": "none",
+  "workbench.editor.labelFormat": "long",
+  // Documentation comment here
+  /**
+   * Automatically approves terminal commands in the chat interface without requiring user confirmation.
+   * When enabled, terminal operations initiated through chat will execute automatically.
+   * 
+   * @type {boolean}
+   * @default false
+   */
+  "chat.tools.terminal.autoApprove": {
+    "/^Get-PSDrive -PSProvider FileSystem \\| ForEach-Object \\{ \\$rb = \"\\$\\(\\$_\\.Name\\):\\\\\\\\\\$RECYCLE\\.BIN\"; if\\(Test-Path -LiteralPath \\$rb\\)\\{ \\$size=\\(Get-ChildItem -LiteralPath \\$rb -Recurse -Force -ErrorAction SilentlyContinue \\| Measure-Object Length -Sum\\)\\.Sum; \\[PSCustomObject\\]@\\{Drive=\\$_\\.Name; RecycleBinPath=\\$rb; SizeGB=\\[math\\]::Round\\(\\$size/1GB,2\\)\\} \\} \\} \\| Sort-Object SizeGB -Descending \\| ConvertTo-Json -Depth 3$/": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "/^\\$p='D:\\\\System Volume Information'; if\\(Test-Path -LiteralPath \\$p\\)\\{ try \\{ Get-ChildItem -LiteralPath \\$p -Force -ErrorAction Stop \\| Select-Object -First 5 Name,Length,LastWriteTime \\| ConvertTo-Json -Depth 3 \\} catch \\{ \"AccessDenied: \\$\\(\\$\\_\\.Exception\\.Message\\)\" \\} \\} else \\{ 'System Volume Information not found' \\}$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  },
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font Mono', 'Cascadia Mono', 'Consolas', monospace",
+  "workbench.secondarySideBar.showLabels": false,
+  "editor.accessibilitySupport": "off"
+}
