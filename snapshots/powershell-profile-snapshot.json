@@ -1,0 +1,14 @@
+{
+  "capturedAt": "2026-04-21T19:02:22+09:00",
+  "psVersion": "7.6.0",
+  "psEdition": "Core",
+  "hostName": "ConsoleHost",
+  "profile": {
+    "allUsersAllHosts": "C:\\Program Files\\PowerShell\\7\\profile.ps1",
+    "allUsersCurrentHost": "C:\\Program Files\\PowerShell\\7\\Microsoft.PowerShell_profile.ps1",
+    "currentUserAllHosts": "C:\\Users\\sei09\\Documents\\PowerShell\\profile.ps1",
+    "currentUserCurrentHost": "C:\\Users\\sei09\\Documents\\PowerShell\\Microsoft.PowerShell_profile.ps1",
+    "existsCurrentUserAllHosts": true,
+    "existsCurrentUserCurrentHost": true
+  }
+}

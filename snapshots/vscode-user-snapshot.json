@@ -1,0 +1,18 @@
+{
+  "capturedAt": "2026-04-21T19:02:25+09:00",
+  "vscode": {
+    "appData": "C:\\Users\\sei09\\AppData\\Roaming",
+    "settingsJson": {
+      "path": "C:\\Users\\sei09\\AppData\\Roaming\\Code\\User\\settings.json",
+      "exists": true
+    },
+    "keybindingsJson": {
+      "path": "C:\\Users\\sei09\\AppData\\Roaming\\Code\\User\\keybindings.json",
+      "exists": false
+    },
+    "profilesDirectory": {
+      "path": "C:\\Users\\sei09\\AppData\\Roaming\\Code\\User\\profiles",
+      "exists": false
+    }
+  }
+}
