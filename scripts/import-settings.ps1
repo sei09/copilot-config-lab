@@ -1,3 +1,5 @@
+throw "Disabled for safety: this script is commented out. Re-enable it only if you understand its effects."
+<#
 param(
   [string]$UserName = "sei09"
 )
@@ -32,3 +34,4 @@ if (Test-Path -LiteralPath (Join-Path $srcPS "WindowsPowerShell_profile.ps1")) {
 }
 
 Write-Host "Import completed."
+#>
